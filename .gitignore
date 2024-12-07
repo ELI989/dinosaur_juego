@@ -1,0 +1,11 @@
+# Entornos virtuales
+myenv/
+
+# Archivos de registro
+*.log
+
+# Activos de música y sonido
+assets/musica/
+
+# Activos de imagen
+assets/imagenes/
